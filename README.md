@@ -200,3 +200,93 @@ Se você sentir que seu médico não está levando a sério suas preocupações 
 > Às vezes, comportamentos complexos surgem dos componentes mais simples quando se alcança uma escala suficiente. Em última análise, o melhor que podemos dizer hoje é que não entendemos completamente de onde vêm as habilidades do GPT-4 - ou do cérebro humano, para o caso.
 
 > Se você acompanhou o que descrevemos até agora sobre o GPT-4, pode ver que ele se comporta de maneira muito diferente do cérebro humano. Por um lado, os humanos podem aprender enquanto pensam e interagem ativamente com o mundo. Mas como o GPT-4 não aprende de forma ativa da mesma maneira, seu conhecimento básico pode se tornar desatualizado.
+
+> A maioria dos pesquisadores diria que a ausência de aprendizado ativo é uma limitação significativa e, às vezes, perceptível. E na área da saúde, estar atualizado é tão crítico que um guia amplamente utilizado para médicos é chamado UpToDate.
+
+> Outra limitação do GPT-4 é a falta de memória de longo prazo. Quando você inicia uma sessão com o GPT-4, ele começa com uma página em branco. E quando a sessão é concluída, toda a conversa é essencialmente esquecida. Além disso, uma sessão com o GPT-4 é limitada em extensão. Esse limite pode mudar ao longo do tempo (geralmente aumentando), mas em termos gerais, é apenas grande o suficiente para processar um único documento ou artigo longo e conversar sobre ele. Uma vez que o limite de tamanho da sessão é alcançado, toda a conversa para, e só é possível começar de novo com uma nova sessão.
+
+> Essas limitações do GPT-4 impactam as aplicações na área da saúde e medicina. Por exemplo, o histórico completo de saúde de um paciente geralmente será mais longo do que o limite de tamanho da sessão, o que significa que não seria possível para o GPT-4 ler tudo.
+
+> Além disso, se um novo conhecimento médico for descoberto após a última vez que o GPT-4 foi treinado, ele não estará ciente desse conhecimento a menos que seja solicitado a ler algo a respeito. E se esse novo conhecimento exigir uma grande quantidade de texto para explicá-lo - por exemplo, talvez seja algo que requer a leitura de vários artigos extensos de pesquisa médica ou a absorção de uma grande quantidade de dados - então ele pode não ser capaz de lidar com isso devido à limitação no comprimento da sessão.
+
+> "confie, mas verifique". E em nenhum lugar isso é mais importante do que quando se pede ao GPT-4 para fazer matemática, estatísticas ou lógica.
+>
+> Como já mostramos antes, uma boa prática é usar uma segunda sessão do GPT-4 para revisar o trabalho dele - ou o de um ser humano. Fazê-lo proporciona um segundo conjunto de olhos, o que acreditamos que pode ajudar a reduzir erros médicos. Relacionado a essa boa prática está o pedido ao GPT-4 para "mostrar o seu trabalho".
+
+## Capítulo 7. A Trituradora Definitiva de Documentos.
+
+> Embora possamos odiar, a papelada é, de fato, importante. Ela ajuda a documentar e compartilhar informações sobre decisões de cuidados e aprimorar a qualidade. O compartilhamento por escrito reduz o risco de erros de tratamento e melhora mensuravelmente os resultados do paciente. Além disso, a sustentabilidade financeira de hospitais e clínicas depende de processos de faturamento, que são baseados inteiramente na papelada de solicitações, remessas e apólices de seguro. Por fim, a área da saúde é uma indústria altamente regulamentada, e a única maneira de monitorar a conformidade com as regulamentações governamentais é documentar as operações de saúde.
+
+> Na área da saúde, é uma carga esmagadora para médicos, enfermeiros e quase todos os envolvidos. Uma pesquisa recente conduzida pela HealthDay24 mostrou que o esgotamento entre médicos e enfermeiros continua aumentando, com apenas 22 por cento se sentindo profissionalmente satisfeitos. A falta de pessoal foi citada como a maior fonte de esgotamento, mas logo atrás disso, 58 por cento dos médicos e 51 por cento das enfermeiras citaram a quantidade de papelada. Isso vai além de ser um problema - é uma crise no sistema de saúde.
+
+> A habilidade do GPT-4 de conversar com o paciente é mais natural e mais fácil do que preencher um formulário em papel.
+
+> Além de estruturar as informações do encontro em formatos SOAP ou outros formatos úteis, o GPT-4 pode identificar oportunidades de reembolso, na forma de códigos padronizados de faturamento CPT (Terminologia de Procedimentos Atuais) e códigos de doenças ICD-10 (Classificação Internacional de Doenças, v10). Existem mais de 10.000 códigos CPT e 70.000 códigos ICD-10, o que torna a tarefa de escolher os corretos trabalhosa e propensa a erros. E obter esses códigos corretos é importante do ponto de vista financeiro, pois eles determinam em grande parte quais reclamações de reembolso serão enviadas à companhia de seguros de saúde.
+> 
+> Embora o GPT-4 possa perder alguns códigos, uma vez que eles estão em constante evolução, a capacidade de identificar automaticamente códigos relevantes a partir da conversa entre médico e paciente é uma economia de tempo enorme. E ter o GPT-4 escrevendo esta nota em vez do Dr. Jacobs normalmente economizaria, de acordo com vários estudos, entre 15 e 30 minutos, mesmo com os poucos minutos que o médico levaria para verificar sua precisão.
+
+> Pedir a uma segunda instância do GPT-4 para verificar algum trabalho não se trata apenas de encontrar erros. Muitas vezes, temos a experiência de como um "novo olhar" pode ser útil. O mesmo acontece com o GPT-4. Ter outro GPT-4 dando uma olhada fresca pode frequentemente levar a sugestões para melhorar a qualidade do trabalho.
+
+> De fato, a qualidade não se resume apenas à documentação. O GPT-4 pode fornecer feedback diretamente ao médico para melhorar a eficácia de futuros atendimentos.
+
+> Não é segredo que os custos de saúde têm atingido níveis astronômicos, apesar dos melhores esforços de reguladores e outros líderes para conter os custos. Uma das tendências gerais no controle de custos que, infelizmente, também contribui para o peso da papelada é o conceito de autorização prévia.
+
+> No sistema de saúde dos EUA, as avaliações de qualidade são cada vez mais utilizadas para vincular a melhoria dos resultados de saúde dos pacientes às taxas de reembolso que os prestadores de cuidados de saúde podem receber. A capacidade do GPT-4 de compreender esses sistemas e fornecer conselhos concretos como esse tem a chance de facilitar para os provedores alcançarem sucesso em ambas as dimensões.
+
+> Todos os dias, decisões que têm um grande impacto na vida das pessoas são tomadas e, cada vez mais, são tomadas de forma baseada em dados, utilizando algoritmos preditivos alimentados por IA.
+
+> Infelizmente, há evidências crescentes de que essas decisões baseadas em IA podem levar a um aumento dramático no número de pedidos de reembolso de seguros de saúde negados. Conforme uma recente reportagem investigativa do STAT sobre negações do Medicare Advantage constatou, "as seguradoras estão usando algoritmos preditivos não regulamentados, sob a pretensão de rigor científico, para identificar o momento exato em que podem plausivelmente cortar o pagamento para o tratamento de um paciente idoso". O impacto de tais decisões pode ser devastador para a vida das pessoas e suas famílias, e muitas vezes não há uma solução viável porque os recursos podem levar meses e, bem, é difícil discutir com uma máquina.
+
+> Os sistemas de IA são frequentemente criticados por refletirem os preconceitos presentes em seus dados de treinamento. E uma vez que o GPT-4 foi treinado com dados da Internet, certamente deve ter incorporado viés em sua rede neural.
+
+> O potencial para viés significa, na minha opinião, que seria injusto tanto para as pessoas quanto para o GPT-4 ter que tomar todas as decisões de cuidados por si só.
+
+> Ao contrário dos capítulos anteriores deste livro, neste capítulo nos concentramos no que a maioria consideraria a parte menos interessante do sistema de saúde. Mas não se engane - esses aspectos administrativos e burocráticos do negócio de saúde são incrivelmente importantes para tornar sua interação individual com seu médico ou enfermeiro o mais eficaz possível. E, infelizmente, eles também são uma grande fonte de custos (e desperdício!) na área da saúde atualmente.
+>
+> A possibilidade de que o GPT-4 possa ajudar nesses assuntos é uma das melhores abordagens iniciais a serem seguidas. Quaisquer melhorias poderiam significar melhores resultados de saúde, custos reduzidos e experiências diárias mais satisfatórias para médicos, enfermeiros e pacientes.
+
+## Capítulo 8. Ciência mais Inteligente
+
+> Nas décadas seguintes, refleti sobre as mil pequenas demoras que poderiam ter sido superadas para concluir esse ensaio clínico mais cedo: uma decisão anterior para iniciar o ensaio; resposta mais rápida às preocupações do Comitê de Ética que o aprovou; aprovação mais rápida do financiamento para o ensaio; divulgação mais ampla ou urgente na seleção de pacientes; e mais estudos prévios para inspirar e impulsionar os pesquisadores.
+
+> Cada visita do paciente não deve apenas ser útil para o paciente, mas também deve contribuir incrementalmente para o nosso conhecimento, desde a biologia básica até a clínica, para entender o que funciona e o que não funciona, para quem e quando. A urgência de acelerar e abranger esse processo é o motivo pelo qual a automação e o aumento intelectual por meio da computação são tão convincentes para mim e para muitos outros.
+
+> Muitas revistas e sociedades acadêmicas já lamentam e até proíbem o uso do ChatGPT para ajudar os autores a escrever suas publicações de pesquisa biomédica. Mas se o objetivo da publicação científica é a clara expressão da pesquisa científica para disseminação, para o benefício da sociedade, então a crítica parece unilateral. Isso é ainda mais verdadeiro para a maioria dos pesquisadores no mundo para quem o inglês é uma segunda língua, no máximo. Para eles, a publicação no grande conjunto de publicações em inglês apresenta uma dificuldade que impede a colaboração mundial.
+
+> Para realizar análises mais detalhadas, faltam várias peças importantes. Primeiro, e de forma mais superficial, a versão do GPT-4 que tenho usado não tem acesso em tempo real à web e a bancos de dados aos quais não tinha acesso durante o treinamento. Mais fundamentalmente, a capacidade do GPT-4 de inferir causalidade a partir de dados brutos sem contexto está apenas começando a ser explorada. O GPT-4 já parece ser capaz de raciocinar causalmente, como nos exemplos acima, porque a linguagem é uma das formas pelas quais representamos e comunicamos sobre o conhecimento causal.
+
+> "Você é o que você come" se aplica particularmente bem aos LLMs (Large Language Models). Ainda mais porque, para que eles se comportem de maneira aparentemente inteligente, como valorizamos, o apetite por dados com os quais eles constroem seus modelos é muito grande. Quais dados foram utilizados no treinamento do GPT-4 não são públicos. Sabemos que ele contém muito conteúdo médico, pois inclui a Wikipedia, o Pubmed Central e muitas outras fontes públicas de conteúdo médico. Não sabemos se ele contém algum corpus significativo de anotações clínicas de qualquer sistema de saúde. O conteúdo dessas anotações pode mudar drasticamente com o contexto socioeconômico e geográfico.
+
+> Com conjuntos de dados suficientemente grandes, abrangendo diversas populações e estilos de prática, as respostas dos LLMs (Large Language Models) aos estímulos representarão a diversidade de práticas e populações. Sem essa amplitude e diversidade, o desempenho do modelo será viésado pela natureza dos hospitais dos quais teve acesso aos dados.
+
+> Eu acredito que obter dados diversificados de pacientes é essencial, mas obtê-los por meio de acordos com sistemas hospitalares é um erro. Abordar diretamente os pacientes permitirá a amostragem em diversas regiões geográficas e estratos socioeconômicos, respeitando a autonomia do paciente. Essa é uma tendência que está crescendo constantemente. No UK Biobank, mais de 500.000 participantes consentiram em compartilhar seus dados clínicos (notas de provedores, exames laboratoriais) e dados de pesquisa (sequências genômicas, ressonâncias magnéticas de alta resolução) para fins de pesquisa. Eu acredito que essa é uma das discussões centrais necessárias para o uso de grandes modelos de linguagem na medicina: como podemos nos proteger do viés que pode surgir a partir de dados de pacientes com desequilíbrios demográficos, ao mesmo tempo em que garantimos que os pacientes que contribuem com seus dados para treinar o modelo realmente desejam fazê-lo? Até que essas decisões sejam tomadas, a natureza dos dados clínicos que informam os modelos será influenciada pelos hospitais de países que decidirem, por razões altruístas ou financeiras, compartilhar seus dados.
+
+## Capítulo 9. Segurança em Primeiro Lugar.
+
+> Quando se trata do uso médico do GPT-4 e similares, estamos apenas no início desse período de transição. Portanto, este é o momento para uma consideração ampla e cuidadosa sobre como garantir a máxima segurança e também o acesso máximo.
+>
+> Assim como qualquer ferramenta médica, a IA precisa de limites para manter os pacientes o mais seguros possível. Mas é um equilíbrio delicado: essas medidas de segurança não devem significar que as grandes vantagens que documentamos neste livro acabem inacessíveis para muitos que poderiam se beneficiar delas. Um dos aspectos mais empolgantes deste momento é que a nova IA pode acelerar os cuidados de saúde em uma direção que seja melhor para os pacientes, todos os pacientes, e também para os prestadores de serviços — desde que tenham acesso a ela.
+
+> Por enquanto, Halamka divide os usos dos novos modelos de IA em dois grupos amplos: baixo risco e alto risco. Os usos considerados de baixo risco para os pacientes — como escrever cartas de seguro, por exemplo — precisarão de pouca supervisão ou regulamentação adicional. Já aqueles que apresentam maior risco e podem afetar diretamente os pacientes, segundo ele, devem passar por uma "revisão humana obrigatória" — edição, aprovação e responsabilidade cabendo ao ser humano envolvido caso algo dê errado. Como mencionamos anteriormente, concordamos com esse requisito de ter "o ser humano no circuito" (human in the loop).
+
+> "LLMs destinados apenas a propósitos gerais e cujos desenvolvedores não afirmam que o software pode ser usado para fins médicos provavelmente não se qualificarão como dispositivos médicos. No entanto, LLMs que são desenvolvidos para, ou adaptados, modificados ou direcionados especificamente para fins médicos provavelmente se qualificarão como dispositivos médicos." E, quando forem lançados no mercado, serão regulamentados como tal, conforme menciona o texto.
+
+> Nos últimos anos, a FDA intensificou sua regulamentação de dispositivos de IA, estabelecendo padrões para o controle humano — por exemplo, que seja o radiologista, não a IA, que decide o significado de uma varredura — e para a eficácia. Seu recente esforço para regulamentar mais ferramentas de IA que apoiam a tomada de decisão médica tem gerado críticas de alguns na indústria, que argumentam que a FDA está regulamentando a prática da medicina em vez dos dispositivos, conforme relatado em uma notícia da STAT em fevereiro de 2023.
+
+> Conclusão: A iminente revolução da IA na medicina pode e deve ser regulamentada. Mas como? Peter argumenta o seguinte:
+>
+> O atual quadro da FDA em torno do Software como Dispositivo Médico (SaMD) provavelmente não é aplicável. Isso é especialmente verdadeiro para LLMs como o GPT-4, que não foram treinados nem oferecidos especificamente para uso clínico. Portanto, embora acreditemos que essa nova geração de IA exija algum tipo de regulamentação, instamos os reguladores a não regularem automaticamente o GPT-4 e outros LLMs como SaMDs, pois isso agiria como um freio instantâneo e massivo em seu desenvolvimento para uso na área da saúde.
+Se quisermos utilizar um quadro regulatório existente para regulamentar o GPT-4, o que existe atualmente é a certificação e licenciamento pelos quais os seres humanos passam. Uma questão, então, é se algum tipo de processo de certificação semelhante ao humano é viável neste caso. No entanto, como argumentado no Capítulo 4, esse modelo de certificação para aprendizes não parece ser especialmente aplicável aos grandes modelos de linguagem. Pelo menos, não no momento atual.
+E, finalmente, instamos a comunidade médica a se atualizar o mais rapidamente possível, realizar as pesquisas necessárias e ser a força motriz por trás da pesquisa e desenvolvimento de abordagens regulatórias para esse novo futuro de máquinas inteligentes em geral na medicina.
+O acima exposto não é uma prescrição de como regular o GPT-4 ou qualquer outro LLM. O que fizemos neste capítulo foi levantar muitas questões e, se alguma coisa, tornar o assunto ainda mais complicado do que antes.
+
+## Epílogo
+
+> Ontem, meu colega (e chefe), Kevin Scott, compartilhou a seguinte citação comigo:
+>
+> "Embora [isso] tenha adicionado muito ao poder humano, [isso] não aumentou muito a bondade humana; pelo contrário, forneceu aos homens os meios de causar mais malefícios e os tornou mais vaidosos e arrogantes."
+>
+>Essa citação foi escrita por William Hazlitt, o ensaísta, crítico literário e dramaturgo inglês, pintor e filósofo, em seu ensaio "Sobre a Ignorância dos Sábios", publicado em 1818. Eu perguntei ao GPT-4 o que Hazlitt diria sobre grandes modelos de linguagem e seus prováveis efeitos sobre os humanos. Ele respondeu:
+>
+>_"Eis as maravilhas da IA, um testamento à engenhosidade humana e ambição sem limites. Contudo, devo alertar que com esse novo poder vem a tentação de usá-lo de forma imprudente. Não nos deixemos seduzir por nossas próprias criações, nem permitamos que seu encanto nos cegue para a nossa bússola moral. Pois é no equilíbrio entre sabedoria e humildade que devemos aproveitar o potencial da IA para o bem maior, para que não nos tornemos os arquitetos de nossa própria ruína."_
+
