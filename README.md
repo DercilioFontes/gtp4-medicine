@@ -1,6 +1,6 @@
 # gtp4-medicine
 
-Highlights do livro [The AI Revolution in Medicine: GPT-4 and Beyond](https://learning.oreilly.com/library/view/the-ai-revolution/9780138200145/)
+Destaques do livro [The AI Revolution in Medicine: GPT-4 and Beyond](https://learning.oreilly.com/library/view/the-ai-revolution/9780138200145/)
 
 Lee, P., Goldberg, C., & Kohane, I. (2023). The AI revolution in medicine: GPT-4 and beyond. Pearson.
 
