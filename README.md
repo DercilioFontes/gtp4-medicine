@@ -4,7 +4,7 @@ Highlights do livro [The AI Revolution in Medicine: GPT-4 and Beyond](https://le
 
 Lee, P., Goldberg, C., & Kohane, I. (2023). The AI revolution in medicine: GPT-4 and beyond. Pearson.
 
-Usado com referência para a [entrevista](https://learning.oreilly.com/library/view/the-ai-revolution/9780138200145/) com a amiga [Lenise Franco](https://instagram.com/lenisefrancodermatologista?igshid=MzRlODBiNWFlZA==) no Instagram, em 20 de julho de 2023.
+Usado como referência para a [entrevista](https://learning.oreilly.com/library/view/the-ai-revolution/9780138200145/) com a amiga [Lenise Franco](https://instagram.com/lenisefrancodermatologista?igshid=MzRlODBiNWFlZA==) no Instagram, em 20 de julho de 2023.
 
 Traduzido com a ajuda do [ChatCTP](https://chat.openai.com).
 
