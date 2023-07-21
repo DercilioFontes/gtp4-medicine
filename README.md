@@ -14,7 +14,11 @@ Traduzido com a ajuda do [ChatCTP](https://chat.openai.com).
 
 ## Prólogo
 
-> Esperamos que ao terminar de ler este livro, você esteja convencido(a) de três pontos: 1) O GPT-4 tem um potencial revolucionário para melhorar a medicina e a saúde. 2) Porque também apresenta riscos, é imprescindível que os testes em larga escala comecem o mais rápido possível e que o público compreenda seus limites. 3) Devido aos seus potenciais benefícios, o trabalho também deve começar imediatamente para garantir o acesso mais amplo possível.
+> Esperamos que ao terminar de ler este livro, você esteja convencido(a) de três pontos:
+>
+> 1) O GPT-4 tem um potencial revolucionário para melhorar a medicina e a saúde.
+> 2) Porque também apresenta riscos, é imprescindível que os testes em larga escala comecem o mais rápido possível e que o público compreenda seus limites.
+> 3) Devido aos seus potenciais benefícios, o trabalho também deve começar imediatamente para garantir o acesso mais amplo possível.
 
 ## Capítulo 1. Primeiro Contato
 
